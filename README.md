@@ -7,6 +7,8 @@ Esse projeto foi desenvolvido com muito carinho para criar um chat web com o tem
 # Observação:
 O chat está responsivo então você pode utilizá-lo tanto em um notebook quanto em um celular
 
+![print telainicial](/assets/telainicial.png) 
+
 Participações:
 > [Maria Eduarda Gomes Ricardo](https://github.com/MariaGomesR)  
 > [Isabelly Dias Baptista](https://github.com/IDBaptista)
