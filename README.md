@@ -12,6 +12,7 @@ O chat está responsivo então você pode utilizá-lo tanto em um notebook quant
 Participações:
 > [Maria Eduarda Gomes Ricardo](https://github.com/MariaGomesR)  
 > [Isabelly Dias Baptista](https://github.com/IDBaptista)
+> [Gabriel Theodoro](https://github.com/theodoro2115)   
 
 Links:
-> [Chat](https://web-chat-45i9.onrender.com/)
+> [Chat](https://projeto-chat-kittyweb.onrender.com)
